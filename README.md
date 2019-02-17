@@ -29,8 +29,25 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
+* [`toolkit generate-server [FILE]`](#toolkit-generate-server-file)
 * [`toolkit hello [FILE]`](#toolkit-hello-file)
 * [`toolkit help [COMMAND]`](#toolkit-help-command)
+
+## `toolkit generate-server [FILE]`
+
+describe the command here
+
+```
+USAGE
+  $ toolkit generate-server [FILE]
+
+OPTIONS
+  -f, --force
+  -h, --help       show CLI help
+  -n, --name=name  name to print
+```
+
+_See code: [src/commands/generate-server.ts](https://github.com/Vontech/toolkit/blob/v0.0.0/src/commands/generate-server.ts)_
 
 ## `toolkit hello [FILE]`
 
