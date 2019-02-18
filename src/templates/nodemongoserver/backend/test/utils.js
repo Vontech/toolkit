@@ -52,7 +52,6 @@ export function prepareServer(done) {
 }
 
 const testsToFinish = {
-    'events': false,
     'users': false
 }
 
